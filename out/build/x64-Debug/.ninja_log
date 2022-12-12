@@ -1,0 +1,15 @@
+# ninja log v5
+77	841	6925398978460466	CMakeFiles/cmake-demo.dir/Parallelogram.cpp.obj	1fba1c0b4f7a910e
+0	842	6925398978460466	CMakeFiles/cmake-demo.dir/Equilateral_triangle.cpp.obj	3780e31c6ba87662
+312	843	6925398978470474	CMakeFiles/cmake-demo.dir/Square.cpp.obj	eabedef8d7f40baf
+154	845	6925398978490465	CMakeFiles/cmake-demo.dir/Isosceles_triangle.cpp.obj	85cc2775449d179
+351	846	6925398978500461	CMakeFiles/cmake-demo.dir/Rectangle_Q.cpp.obj	f23a73dc51e91671
+116	846	6925398978510463	CMakeFiles/cmake-demo.dir/Figure.cpp.obj	3cb373a67a9bd0e5
+233	847	6925398978500461	CMakeFiles/cmake-demo.dir/Rhombus.cpp.obj	f9e5488652d3f44a
+273	848	6925398978500461	CMakeFiles/cmake-demo.dir/Right_triangle.cpp.obj	4947663f5e560b30
+194	848	6925398978500461	CMakeFiles/cmake-demo.dir/Quadrangle.cpp.obj	af880b995883979c
+390	848	6925398978540465	CMakeFiles/cmake-demo.dir/Triangle.cpp.obj	10eed8ca30661f15
+38	927	6925398979340459	CMakeFiles/cmake-demo.dir/Homework_5.1.cpp.obj	c7bc45898994317f
+927	1506	6925398985072086	cmake-demo.exe	2de09112527d6c5a
+0	453	6925400003652200	CMakeFiles/cmake-demo.dir/Homework_5.1.cpp.obj	c7bc45898994317f
+453	768	6925400006272198	cmake-demo.exe	2de09112527d6c5a
